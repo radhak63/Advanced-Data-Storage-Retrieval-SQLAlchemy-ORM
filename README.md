@@ -2,9 +2,6 @@
 
 This program was written by Radha Mahalingam on 4-20-19
 
-This project analyses the data provided by the ride sharing company to offer data-backed guidance on new opportunities 
-for market differentiation. The data provided includes complete recordset of historic rides and about every active drivers, including details like city, driver count,individual fares, and city type.
-
 This project analyses the climate of Honolulu, Hawaii, where I plan to go on a long holiday vacation.  Using Python and SQLAlchemy, I did basic climate analysis and data exploration using the climate database. Using SQLAlchemy ORM queries, Pandas, Matplotlib and Jupyter notebook.
 
 ## Step 1 - Climate Analysis and Exploration
